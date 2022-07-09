@@ -121,6 +121,7 @@ document.write(
 
 if(init_js_stuff)
   document.write("<style>body{margin:0px;margin-right:6px}</style>")
+  body.setAttribute("class", "container"); 
 
 function sups_toggler()
 {

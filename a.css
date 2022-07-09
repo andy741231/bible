@@ -1,4 +1,5 @@
 @import "style/style.css";
+@import "style/bootstrap.min.css";
 
 /* General tag list -- Don't use abbr,sub,sup.  */
 b,i,p,q,s,
