@@ -4,6 +4,8 @@
 
 body {
     font-size: 24px;
+    background-color: darkolivegreen;
+    color: lightgreen;
 }
 
 td.toc {
